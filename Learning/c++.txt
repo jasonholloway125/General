@@ -1,0 +1,14 @@
+-C++ is a compiled language.
+-Compilation or compiling is when you convert the human-readable code into machine-readable code.
+-Linking is when you combine compiled code into an executable.
+
+-C++ majorly promoted object-oriented programming.
+-Object-oriented programming is a programming paradigm that involves objects, which contain data and code. 
+Data being attributes or properties and code being procedures or methods.
+
+-Lists are known as vectors in C++.
+
+-C++ uses generic programming. This is where algorithms are designed where types are to be specified later.
+For instance, a method with a generic parameter and a generic return.
+
+Almost everything that is in C is in C++. C++ expands upon C and is often considered a superset of C;
